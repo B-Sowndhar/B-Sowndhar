@@ -3,6 +3,8 @@
 
 I’m a 🎓 Computer Science Engineering student passionate about creating solutions that simplify life. I enjoy working with React.js, Python, and DevOps tools while currently learning OOP concepts to build scalable projects. I love collaborating on Front-End and Design projects 🤝 and believe in learning through building real-world solutions that make a meaningful impact ⚡.
 
+- ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=B-Sowndhar.B-Sowndhar)
+
 - 🔧 My Tech Stack includes:
    - 🌐 HTML, CSS, JavaScript
    - ⚛️ React.js, ⚡ Vite
