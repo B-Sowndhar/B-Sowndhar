@@ -19,9 +19,7 @@
 ---
 If you like what I do, maybe consider BMC 🥺 👉 👇
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/b_sowndhar)
-
-
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-000000?logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/b_sowndhar)
 ---
 
 📊 **This week I spent my time on:**
