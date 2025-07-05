@@ -17,9 +17,16 @@
 - 📫 See Me @[[Sowndhar]](https://linktr.ee/b_sowndhar)
 
 ---
-If you like what I do, maybe consider BMC 🥺 👉 👇
+<p align="center">
+  If you like what I do, maybe consider buying me a coffee/tea 🥺 👉 👇
+</p>
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-000000?logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/b_sowndhar)
+<p align="center">
+  <a href="https://www.buymeacoffee.com/b_sowndhar" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" >
+  </a>
+</p>
+
 ---
 
 📊 **This week I spent my time on:**
