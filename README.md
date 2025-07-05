@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sowndhar</h1>
 <p align="center">Front-end Developer | Computer Science Engineer | Python</p>
 
-- 🎓 B.E. Computer Science student
-- 🌱 I’m currently learning **React ,OOP and DevOps**
-- 💬 Ask me about **Web Development, Python, Basic(networking)**
-- ⚡ Fun fact: I love creating solutions that simplify life
-- 🌱 Learning through building projects that solve real-world problems
-- 🤝 Always ready to collaborate on Front-End and Design projects
+I’m a 🎓 Computer Science Engineering student passionate about creating solutions that simplify life. I enjoy working with React.js, Python, and DevOps tools while currently learning OOP concepts to build scalable projects. I love collaborating on Front-End and Design projects 🤝 and believe in learning through building real-world solutions that make a meaningful impact ⚡.
+
 - 🔧 My Tech Stack includes:
    - 🌐 HTML, CSS, JavaScript
    - ⚛️ React.js, ⚡ Vite
