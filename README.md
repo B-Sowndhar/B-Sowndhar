@@ -17,6 +17,11 @@
 - 📫 See Me @[[Sowndhar]](https://linktr.ee/b_sowndhar)
 
 ---
+If you like what I do, maybe consider BMC 🥺 👉 👇
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-orange?logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/b_sowndhar)
+
+---
 
 📊 **This week I spent my time on:**
 
@@ -25,3 +30,6 @@ Python(OOP) 10 hrs 5 mins  ███████████░░░░░░�
 HTML         4 hrs 30 mins  █████░░░░░░░░░░░░░░░░░  24.7%
 CSS          2 hrs 40 mins  ██░░░░░░░░░░░░░░░░░░░░  14.6%
 N8N          50 mins        ░░░░░░░░░░░░░░░░░░░░░░  5.5%
+
+```
+
