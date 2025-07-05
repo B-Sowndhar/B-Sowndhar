@@ -13,8 +13,8 @@
    - 🐍 Python , 💾 MySQL
    - 🛠️ Git & GitHub
    - 🎨 Figma,  🖼️ Canva
--🔗 Connect with me on [[LinkedIn]](https://www.linkedin.com/in/bsowndhar04/)
--📫 See Me @[[Sowndhar]](https://linktr.ee/b_sowndhar)
+- 🔗 Connect with me on [[LinkedIn]](https://www.linkedin.com/in/bsowndhar04/)
+- 📫 See Me @[[Sowndhar]](https://linktr.ee/b_sowndhar)
 
 ---
 
