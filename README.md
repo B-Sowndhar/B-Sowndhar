@@ -4,8 +4,8 @@
 I’m a 🎓 Computer Science Engineering student passionate about creating solutions that simplify life. I enjoy working with React.js, Python, and DevOps tools while currently learning OOP concepts to build scalable projects. I love collaborating on Front-End and Design projects 🤝 and believe in learning through building real-world solutions that make a meaningful impact ⚡.
 
 <p align="center">
-  <strong>MY VISITORS COUNT</strong><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=B-Sowndhar.B-Sowndhar" alt="MY VISITORS COUNT" width="200">
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=B-Sowndhar.B-Sowndhar" alt="MY VISITORS COUNT" width="170">
 </p>
 
 
