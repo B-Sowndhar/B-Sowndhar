@@ -5,7 +5,7 @@ I’m a 🎓 Computer Science Engineering student passionate about creating solu
 
 <p align="center">
   <strong>MY VISITORS COUNT</strong><br>
-  <img src="https://img.shields.io/badge/Visitors-0-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="MY VISITORS COUNT">
+  <img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Visitors&query=value&url=https://api.countapi.xyz/hit/B-Sowndhar/B-Sowndhar&style=for-the-badge&logo=github&logoColor=white" alt="MY VISITORS COUNT">
 </p>
 
 
