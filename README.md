@@ -6,15 +6,15 @@
 - 💬 Ask me about **Web Development, Python, Basic(networking)**
 - 📫 How to reach me: [bsowndhar703@gmail.com]
 - ⚡ Fun fact: I love creating solutions that simplify life
-🌱 Learning through building projects that solve real-world problems
-🤝 Always ready to collaborate on Front-End and Design projects
-🔧 My Tech Stack includes:
-   • 🌐 HTML, CSS, JavaScript
-   • ⚛️ React.js, ⚡ Vite
-   • 🐍 Python , 💾 MySQL
-   • 🛠️ Git & GitHub
-   • 🎨 Figma,  🖼️ Canva
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/bsowndhar04/)
+- 🌱 Learning through building projects that solve real-world problems
+- 🤝 Always ready to collaborate on Front-End and Design projects
+- 🔧 My Tech Stack includes:
+   - 🌐 HTML, CSS, JavaScript
+   - ⚛️ React.js, ⚡ Vite
+   - 🐍 Python , 💾 MySQL
+   - 🛠️ Git & GitHub
+   - 🎨 Figma,  🖼️ Canva
+🔗 Connect with me on [[LinkedIn]](https://www.linkedin.com/in/bsowndhar04/)
 
 ---
 
