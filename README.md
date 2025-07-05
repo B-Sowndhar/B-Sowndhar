@@ -6,6 +6,7 @@ I’m a 🎓 Computer Science Engineering student passionate about creating solu
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=B-Sowndhar.B-Sowndhar" alt="MY VISITORS COUNT" width="150">
 </p>  
+
 - 🔧 My Tech Stack includes:
    - 🌐 HTML, CSS, JavaScript
    - ⚛️ React.js, ⚡ Vite
