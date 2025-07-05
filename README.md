@@ -2,6 +2,10 @@
 <p align="center">Front-end Developer | Computer Science Engineer | Python</p>
 
 I’m a 🎓 Computer Science Engineering student passionate about creating solutions that simplify life. I enjoy working with React.js, Python, and DevOps tools while currently learning OOP concepts to build scalable projects. I love collaborating on Front-End and Design projects 🤝 and believe in learning through building real-world solutions that make a meaningful impact ⚡.
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=B-Sowndhar.B-Sowndhar" alt="MY VISITORS COUNT" width="150">
+</p>  
 - 🔧 My Tech Stack includes:
    - 🌐 HTML, CSS, JavaScript
    - ⚛️ React.js, ⚡ Vite
@@ -10,10 +14,6 @@ I’m a 🎓 Computer Science Engineering student passionate about creating solu
    - 🎨 Figma,  🖼️ Canva
 - 🔗 Connect with me on [[LinkedIn]](https://www.linkedin.com/in/bsowndhar04/)
 - 📫 See Me @[[Sowndhar]](https://linktr.ee/b_sowndhar)
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=B-Sowndhar.B-Sowndhar" alt="MY VISITORS COUNT" width="150">
-</p>  
 
 ---
 <p align="center">
